@@ -1,2 +1,3 @@
 # aksoft-practice
-my practice task given by aksoft company
+Аманбеков Ибрахим, Международный Мета-Научный Университет
+a1, a2
