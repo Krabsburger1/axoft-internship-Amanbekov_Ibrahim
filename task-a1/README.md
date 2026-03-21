@@ -1,1 +1,0 @@
-# aksoft-practice
